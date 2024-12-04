@@ -1,0 +1,26 @@
+/* Header.css */
+
+.custom-navbar {
+    background-color: #343a40;
+    padding: 1rem 0;
+}
+
+.FontAwesomeIcon {
+    color: white;
+}
+
+span {
+    color: white;
+}
+
+.brand-name:hover {
+    color: #17a2b8;
+}
+
+.navbar-toggler-icon {
+    background-color: #fff;
+}
+
+.nav-link {
+    color: #fff;
+}
