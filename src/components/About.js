@@ -15,8 +15,8 @@ const About = () => {
                         About Me
                     </h2>
                     <div className="profile-image-container">
-                        <img src="/user.png"
-                            alt="geek pic"
+                        <img src="/assets/user.png"
+                            alt="my face"
                             className="rounded-circle profile-image" />
                     </div>
                     <p> 
