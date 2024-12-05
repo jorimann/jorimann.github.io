@@ -21,11 +21,11 @@ const Header = () => {
                 <Navbar.Toggle aria-controls='responsive-navbar-nav' />
                 <Navbar.Collapse id='responsive-navbar-nav'>
                     <Nav className="ms-auto">
-                        <Nav.Link as={Link} to="#about" spy={true} smooth={true} offset={50} duration={500} className="contact-link"> 
+                        <Nav.Link as={Link} to="#about" offset={50} duration={500} className="contact-link"> 
                             <span>About</span> 
                             <FontAwesomeIcon icon={faInfoCircle} className="me-2 ms-2 text-light ho" /> 
                         </Nav.Link> 
-                        <Nav.Link as={Link} to="#projects" spy={true} smooth={true} offset={50} duration={500} className="contact-link"> 
+                        <Nav.Link as={Link} to="#projects" offset={50} duration={500} className="contact-link"> 
                             <span>Projects</span> 
                             <FontAwesomeIcon icon={faCode} className="me-2 ms-2 text-light ho" / > 
                         </Nav.Link> 

@@ -17,9 +17,9 @@ const Projects = () => {
                 <div className="col-md-6"> 
                     <div className="card mb-4"> 
                         <div className="card-body"> 
-                            <h8 className="card-title"> 
+                            <h6 className="card-title"> 
                                 Simple Weather App
-                            </h8> 
+                            </h6> 
                             <p className="card-text"> 
                                 Weather Application based on React and FastApi.
                                 <br/>
@@ -34,9 +34,9 @@ const Projects = () => {
                 <div className="col-md-6"> 
                     <div className="card mb-4"> 
                         <div className="card-body"> 
-                            <h8 className="card-title"> 
+                            <h6 className="card-title"> 
                                 Project 2 
-                            </h8> 
+                            </h6> 
                             <p className="card-text"> 
                                 Description for Project 2
                             </p> 
@@ -47,9 +47,9 @@ const Projects = () => {
                 <div className="col-md-6"> 
                     <div className="card mb-4"> 
                         <div className="card-body"> 
-                            <h8 className="card-title"> 
+                            <h6 className="card-title"> 
                                 Project 3 
-                            </h8> 
+                            </h6> 
                             <p className="card-text"> 
                                 Description for Project 3
                             </p> 
@@ -60,9 +60,9 @@ const Projects = () => {
                 <div className="col-md-6"> 
                     <div className="card mb-4"> 
                         <div className="card-body"> 
-                            <h8 className="card-title"> 
+                            <h6 className="card-title"> 
                                 Project 4 
-                            </h8> 
+                            </h6> 
                             <p className="card-text"> 
                                 Description for Project 4 
                             </p> 
