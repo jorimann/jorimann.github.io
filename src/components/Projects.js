@@ -35,10 +35,15 @@ const Projects = () => {
                     <div className="card mb-4"> 
                         <div className="card-body"> 
                             <h6 className="card-title"> 
-                                Project 2 
+                                Backbone of Automation Testing Framework 
                             </h6> 
                             <p className="card-text"> 
-                                Description for Project 2
+                                Automation Testing Framework with support of UI and API tests. More details can be found in README. 
+                                <br/>
+                                <a href="https://github.com/jorimann/sogeti-automation-task/blob/main/README.md" target='_blank' rel="noreferrer">Link to README</a>
+                                <br/>
+                                <a href="https://github.com/jorimann/sogeti-automation-task" target='_blank' rel="noreferrer">Link to repository</a>
+
                             </p> 
                         </div> 
                     </div> 
