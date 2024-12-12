@@ -23,7 +23,7 @@ const Projects = () => {
                             <p className="card-text"> 
                                 Weather Application based on React and FastApi.
                                 <br/>
-                                <a href="https://console.firebase.google.com/?_gl=1*1xbqp2w*_ga*NDczNDgzMzIzLjE3MzMzNDI1NTg.*_ga_CW55HF8NVT*MTczMzM0MjU1Ny4xLjAuMTczMzM0MjU1Ny4wLjAuMA..&pli=1" target='_blank' rel="noreferrer">Link to app</a>
+                                <a href="https://my-weather-app-8e5e5.web.app/" target='_blank' rel="noreferrer">Link to app</a>
                                 <br/>
                                 <a href="https://github.com/jorimann/weather-app" target='_blank' rel="noreferrer">Link to repository</a>
                             </p> 
