@@ -21,11 +21,11 @@ const Resume = () => {
                         Download my resume to learn more 
                         about my professional experience and skills. 
                     </p> 
-                    <a href="https://drive.google.com/uc?export=download&id=1orXYdCaqt1K08R9d55n6v2cKLFYufwNc"
+                    <a href="https://drive.google.com/uc?export=download&id=1eWyafLCdAih4JyzKytRA_JwB4svk_hSm"
                         className="resume-download-btn" download> 
                         Download Resume (English) 
                     </a> 
-                    <a href="https://drive.google.com/uc?export=download&id=1pbWtDklcTK_ndBy-eZmqV-LpE5ISfhFE"
+                    <a href="https://drive.google.com/uc?export=download&id=1Ai5kKI2XFAaqeAQbYR31bJ3WOJjLNHTM"
                         className="resume-download-btn" download> 
                         Download Resume (German) 
                     </a> 
